@@ -5,6 +5,12 @@ title: Školení Gitlab
 
 Gitlab je free a opensource Git server, který kromě Git repozitaru podporuje Continues Integration a umí například Docker Registry. V Gitlabu můžete vést agenu ohledně vývoje, trekovat issues, psát dokumentaci a wiki. Gitlab je také silným nástrojem na code review a ideálním nástrojem na správu vzdálených repozitářů u Vás ve firmě a mimo ni.
 
+
+## Aktualně vypsané termíny
+
+- [__Gitlab a Continues Integration__](https://sedu.cz/terminy/gitlab-a-continues-integration-praha-19-06-2018.html?utm_source=bysika.cz) (pro mírně a středně pokročilé) - 19. 6. 2018
+
+
 ## Pro koho je kurz určen?
 
 Kurz je určen pro vývojaře, kteří s Gitlabem budou denně ve styku. Zároveň je také pro projektové manažery, kteří jej mohou používat jako platformu na řízení softwarového vývoje efektivně propojenou s Git repozitáří.
